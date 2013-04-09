@@ -12,6 +12,8 @@ with hadoop. If you do that then you will have extracted the clean raw
 sensor data for the Retrofit for the Future homes from the Embed
 Database.
 
+Once you have that raw sensor date, you can use the R code to process the raw data and calculate the emissions per square metre, among other metrics, for each property.
+
 ## License
 
 Copyright © 2013 [Mastodon C](http://www.mastodonc.com)
